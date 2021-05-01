@@ -5,7 +5,7 @@
 
 ### Purpose
 
-•	The purpose of this project was to see how different campaigns fared in relation to their launch dates and their funding goals. ![image](https://user-images.githubusercontent.com/82424250/116789310-dbc4c980-aa73-11eb-96a7-9dac4e8cb887.png)
+The purpose of this project was to see how different campaigns fared in relation to their launch dates and their funding goals. 
 
 ## Analysis and Challenges
 
@@ -13,14 +13,15 @@
 
 o	organized date using a pivot table based on the campaign outcomes. 
 o	Created chart to visualize the relationship between the outcomes and launch month. (see below)
-![image](https://user-images.githubusercontent.com/82424250/116789296-ce0f4400-aa73-11eb-8710-2505432912e0.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/82424250/116789612-475b6680-aa75-11eb-9326-531887a4e6c0.png)
 
 ### Analysis of Outcomes Based on Goals
 
 o	Organized data by goal, outcome, and success percentage.
 o	Used COUNTIFS function in excel to order data by twelve different goal ranges
 o	Created a line chart titled "Outcomes Based on Goal" to visualize the relationship between the goal-amount ranges and the percentage of successful, failed, or canceled projects 
-![image](https://user-images.githubusercontent.com/82424250/116789321-eaab7c00-aa73-11eb-8057-d22f7dc476f9.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/82424250/116789623-56daaf80-aa75-11eb-842c-25d626fe335a.png)
+
 
 ### Challenges and Difficulties Encountered
 
