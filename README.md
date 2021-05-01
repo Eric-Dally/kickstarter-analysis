@@ -11,8 +11,8 @@ The purpose of this project was to see how different campaigns fared in relation
 
 ### Analysis of Outcomes Based on Launch Date
 
-Organized date using a pivot table based on the campaign outcomes. 
-Created chart to visualize the relationship between the outcomes and launch month. (see below)
+-Organized dates using a pivot table based on the campaign outcomes. 
+-Created chart to visualize the relationship between the outcomes and launch month. (see below)
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/82424250/116789612-475b6680-aa75-11eb-9326-531887a4e6c0.png)
 
 ### Analysis of Outcomes Based on Goals
